@@ -10,5 +10,5 @@ public class EjerciciosPoo {
         Scanner teclado = new Scanner(System.in);
         String nombre = teclado.nextLine();
         System.out.println("Su nombre es: "+nombre);
-    }
+    } 
 }
