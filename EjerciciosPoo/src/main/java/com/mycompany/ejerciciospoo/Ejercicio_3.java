@@ -11,7 +11,7 @@ public class Ejercicio_3 {
             System.out.println("La persona tiene: "+edadPersona+" "+Frase);
             
         }else{
-            System.out.println("La persona tiene pereza");
+            System.out.println("La persona es mayor de edad");
         }
     }
     
